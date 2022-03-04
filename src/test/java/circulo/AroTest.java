@@ -1,5 +1,5 @@
 /**
- * Probas para a clase Circulo
+ * Probas para a clase Aro.
  * @author MartinaCastelo
  */
 package circulo;
@@ -12,11 +12,14 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
+ * Clase AroTest para probas unitarias da clase Aro.
  * @author MartinaCastelo
  */
 public class AroTest {
     
+    /**
+     *Constructor da clase AroTest.
+     */
     public AroTest() {
     }
 
